@@ -8,8 +8,8 @@ Gem::Specification.new do |spec|
   spec.version       = Payu::VERSION
   spec.authors       = ["Gonzalo Aguirre"]
   spec.email         = ["gonzaloa@idea.me"]
-  spec.description   = %q{TODO: Write a gem description}
-  spec.summary       = %q{TODO: Write a gem summary}
+  spec.description   = "PayU SDK in Ruby for Payments API and Reports API"
+  spec.summary       = "SDK in Ruby for PayU Latam APIs"
   spec.homepage      = ""
   spec.license       = "MIT"
 
